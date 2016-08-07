@@ -1,0 +1,2 @@
+# devstack_network_flat
+在nova-network下采用FlatManager模式创建实例
